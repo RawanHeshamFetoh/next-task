@@ -8,9 +8,10 @@ import { GET } from '../api/product/route'
 
 const LocalProducts = async () => {
   const response = await GET(); 
-        const products = await response.json();
+  const products = await response.json();
+  // console.log(products , 'hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh')
   // const products = await getProduct()
-  console.log(response)
+  // console.log(response)
 
 
   return (
