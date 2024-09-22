@@ -1,0 +1,12 @@
+.blog{
+    /* position: fixed;
+    top: 70px;
+    left: 0; */
+    /* height: 80vh;
+    overflow-y: scroll; */
+    width: 100%;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

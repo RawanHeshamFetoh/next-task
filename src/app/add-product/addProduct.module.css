@@ -1,0 +1,6 @@
+.formCenter{
+    margin-top: 100px;   
+}
+.formCenter input , .formCenter label{
+    text-transform: capitalize;
+}

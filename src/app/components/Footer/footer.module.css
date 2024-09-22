@@ -1,0 +1,22 @@
+.footer{
+    padding:20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e6e6e6;
+    /* position: fixed;
+    top: 85vh;
+    left: 0;
+    width: 100%; */
+    /* width: 100%;
+    position: fixed;
+    bottom: 0; */
+    position: relative;
+    z-index: 50;
+}
+.footerp{
+    color: #6366F1;
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: bold;
+}

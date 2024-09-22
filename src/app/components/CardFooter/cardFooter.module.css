@@ -1,0 +1,20 @@
+.cardFooter{
+    display: flex;
+   
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.cardFooter p{
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.cardFooter button {
+    font-size: 30px ;
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    color: #6366F1 ;
+}

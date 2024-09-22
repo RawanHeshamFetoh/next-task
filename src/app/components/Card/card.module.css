@@ -1,0 +1,21 @@
+.card{
+    width: 45%;
+    padding: 20px;
+    border: 1px solid #6e6e6e;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    margin: 15px 0;
+}
+.card h6{
+    text-transform: capitalize;
+    color: #6366F1;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+.card p{
+    color: #6e6e6e;
+    margin-bottom: 10px;
+}
